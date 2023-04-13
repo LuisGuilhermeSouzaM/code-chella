@@ -4,7 +4,7 @@ import { Home } from "../pages/Home";
 import { Experience } from "../pages/Experience";
 import { SectorMap } from "../pages/SectorMap";
 import { Information } from "../pages/Information";
-import { BuyIngress } from "../pages/BuyIngress";
+import { BuyTicket } from "../pages/BuyTicket";
 import { Ticket } from "../pages/Ticket";
 
 export function Router() {
@@ -14,7 +14,7 @@ export function Router() {
       <Route path="/experiencia" element={<Experience />} />
       <Route path="/setores" element={<SectorMap />} />
       <Route path="/informacoes" element={<Information />} />
-      <Route path="/compraringresso" element={<BuyIngress />} />
+      <Route path="/compraringresso" element={<BuyTicket />} />
       <Route path="/ticket" element={<Ticket />} />
     </Routes>
   );
