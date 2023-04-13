@@ -14,4 +14,4 @@ Projeto feito para o 6° challenge front end da alura para melhorar minhas habil
 
 ## Detalhes do projeto
 
-Um site para divulgação do festival fictício de tecnologia CodeChella
+Um site para divulgação do festival fictício de tecnologia CodeChella, com informações sobre o evento, programação, ingressos e localização.
