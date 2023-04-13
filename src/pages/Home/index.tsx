@@ -54,7 +54,7 @@ export function Home() {
 
         <div className="flex flex-col items-center justify-center">
           <CardDate textDate="DOMINGO &lt;12/03&gt;" />
-          <h1 className="text-4xl mb-8">Lana Del Play</h1>
+          <h1 className="text-4xl mb-8">Lana Del Ploy</h1>
           <div className="flex flex-col md:grid md:grid-cols-2 lg:flex lg:flex-row gap-5 text-center">
             {SingersSunday.map((Singers) => {
               return (
